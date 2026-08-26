@@ -1,0 +1,73 @@
+input_tile: kmz-zm-18_14.251678_77.450521_blocks-1_2_3_4.png
+tile_center_avg_lat: 14.25167796
+tile_center_avg_lon: 77.45052133
+top_left_lat: 14.25500551
+top_left_lon: 77.44708811
+bottom_right_lat: 14.24835041
+bottom_right_lon: 77.45395454
+zoom: 18
+scale: 2
+image_px: 2560
+meters_per_pixel: 0.289393
+total_predicted_mask_pixels: 2552928
+total_predicted_mask_area_m2: 53450.8091
+panel_area_m2_input: 2.5700
+
+blocks:
+  - id: 1
+    name: block-1
+    block_area_m2: 99026.4844
+    vertices:
+      - 14.25168094, 77.44614240
+      - 14.25164650, 77.45082949
+      - 14.24986411, 77.45082073
+      - 14.24993245, 77.44616715
+      - 14.25168094, 77.44614240
+    overlap_pixels: 766548
+    overlap_area_m2: 16049.2622
+    est_panels_float: 6244.849104
+    est_panels_int_floor: 6244
+
+  - id: 2
+    name: block-2
+    block_area_m2: 87654.3555
+    vertices:
+      - 14.25104772, 77.45083237
+      - 14.25099508, 77.45518387
+      - 14.24893965, 77.45516936
+      - 14.24975156, 77.45081841
+      - 14.25104772, 77.45083237
+    overlap_pixels: 299660
+    overlap_area_m2: 6273.9997
+    est_panels_float: 2441.245013
+    est_panels_int_floor: 2441
+
+  - id: 3
+    name: block-3
+    block_area_m2: 104558.6953
+    vertices:
+      - 14.25353749, 77.45084302
+      - 14.25163953, 77.45081878
+      - 14.25170172, 77.44615121
+      - 14.25351388, 77.44612494
+      - 14.25353749, 77.45084302
+    overlap_pixels: 866624
+    overlap_area_m2: 18144.5595
+    est_panels_float: 7060.139886
+    est_panels_int_floor: 7060
+
+  - id: 4
+    name: block-4
+    block_area_m2: 134144.9531
+    vertices:
+      - 14.25367100, 77.45087517
+      - 14.25365836, 77.45502464
+      - 14.25099724, 77.45511622
+      - 14.25104482, 77.45081580
+      - 14.25367100, 77.45087517
+    overlap_pixels: 620066
+    overlap_area_m2: 12982.3596
+    est_panels_float: 5051.501803
+    est_panels_int_floor: 5051
+
+calculation_timestamp_utc: 2026-01-19T06:59:46.308503Z

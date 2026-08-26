@@ -1,0 +1,7 @@
+# Runtime dependencies for solar_kml.py
+matplotlib
+numpy
+opencv-python
+Pillow
+requests
+tensorflow
